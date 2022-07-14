@@ -1,0 +1,1 @@
+# Whether_the_person_is_vaccinated_or_not
